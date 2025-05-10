@@ -1,0 +1,46 @@
+stimulus,ID_sentence,transitivity,subject_status,object_status,type,subject_animacy,object_animacy,special things
+распустились нарциссы,1_1,INTR,new,none,narrative,inanimate,none,
+лена показала вове что цветы зацвели,1_2,INTR,given,none,narrative,inanimate,none,does Vova know about the flowers?
+сейчас расскажу маме,1_3,TR,none,new,dialogue,none,animate,filler
+мама представляешь цветы зацвели,1_4,INTR,new,none,dialogue,inanimate,none,does mother know about the flowers? flowers may be general flowers here and still SV
+"да, моя соседка тоже видела цветы в парке",1_5,TR,new,given?,dialogue,animate,inanimate,contrastive topic
+"да нет, мои цветы зацвели",1_6,INTR,new,none,dialogue,inanimate,none,focus
+...но только нарциссы выросли,1_7,INTR,given,none,dialogue,inanimate,none,focus
+"оказалось, упала коробка",1_8,INTR,new,none,narrative,inanimate,none,focus
+"весь пол в земле, кашпо разбилось",1_9,INTR,given,none,narrative,inanimate,none,some people don't know this word...
+"вова, кашпо разбилось",1_10,INTR,d-linked,none,dialogue,inanimate,none,Vova definitely knows
+"может, кашпо разбил Барсик?",1_11,TR,d-linked,given,dialogue,animate,inanimate,focus
+"да, смотри, у него лапы в земле",1_12,INTR,d-linked,none,dialogue,inanimate,none,filler
+упали нарциссы,1_13,INTR,d-linked,none,dialogue,inanimate,none,focus (answer to a Q)
+горшок разбил Барсик,1_14,TR,d-linked,given,dialogue,animate,inanimate,focus (answer to a Q)
+бегают дети,2_1,INTR,d-linked,none,narrative,animate,none,children may or may not be d-linked 
+раздаются крики,2_2,INTR,new,none,narrative,inanimate,none,sound
+мальчики бегают,2_3,INTR,d-linked,none,dialogue,animate,none,focus (answer to a Q)
+бегает только Дима,2_4,INTR,new,none,narrative,animate,none,focus
+вдруг послышался хруст,2_5,INTR,new,none,narrative,inanimate,none,sound
+дима сломал парту,2_6,TR,given,new,dialogue,animate,inanimate,"""what happened?"" - unsounded Q"
+парта сломалась,2_7,INTR,given,none,dialogue,inanimate,none,what happened
+сломалась парта,2_8,INTR,given,none,dialogue,inanimate,none,what happened
+сломал парту Дима,2_9,TR,given,given,dialogue,animate,inanimate,focus (corrective? answer to a Q)
+пришел завуч,2_10,INTR,given,none,narrative,animate,none,appearance
+кто сломал парту,2_11,TR,new,given,dialogue,animate,inanimate,question
+Сидоров парту сломал,2_12,TR,given,given,dialogue,animate,inanimate,focus (answer to a Q)
+папа починит парту,2_13,TR,new,given,dialogue,animate,inanimate,focus (answer to a Q) -- either FATHER or FIX
+парту починил завхоз,2_14,TR,new,given,narrative,animate,inanimate,focus
+портрет нарисовал Петя,3_1,TR,new,given,narrative,animate,inanimate,SVO would be a paraphrase/explanation of preceding sentence
+Петя нарисовал рисунок,3_2,TR,new,new,dialogue,animate,inanimate,what happened
+папа повесил рисунок,3_3,TR,new,given,narrative,animate,inanimate,-
+картину рассматривали гости,3_4,TR,d-linked,given,narrative,animate,inanimate,-
+Петя нарисовал портрет,3_5,TR,given,given,dialogue,animate,inanimate,focus (answer to a Q)
+бабушка потрепала Петю по щеке,3_6,TR,d-linked,given,narrative,animate,animate,filler
+картину повесил Женя,3_7,TR,new,given,dialogue,animate,inanimate,focus (answer to a Q)
+гости веселились,3_8,INTR,given,none,narrative,animate,none,-
+звучали тосты,3_9,INTR,new,none,narrative,inanimate,none,sound
+дети пели,3_10,INTR,d-linked,none,narrative,animate,none,sound
+веселый получился праздник,3_11,INTR,new,none,narrative,inanimate,none,filler
+Вася написал рассказ,4_1,TR,new,new,dialogue,animate,inanimate,depends whether interlocutors see the works or not
+Вася любит философию,4_2,TR,given,new,dialogue,animate,inanimate,explanation of a guess
+Таня написала стихотворение,4_3,TR,new,new,dialogue,animate,inanimate,depends whether interlocutors see the works or not
+Даша выиграла золото,4_4,TR,new,new,dialogue,animate,inanimate,-
+Вася выиграл серебро,4_5,TR,given,new,dialogue,animate,inanimate,contrastive topic
+Даня получил бронзу,4_6,TR,new,d-linked,dialogue,animate,inanimate,-
